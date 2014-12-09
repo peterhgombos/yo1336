@@ -11,5 +11,6 @@
   "dependencies": {
     "node-schedule": "^0.1.13",
     "request": "^2.49.0"
-  }
+  },
+  "repository": "https://github.com/peterhgombos/yo1336"
 }
