@@ -1,5 +1,5 @@
 Yo's when the time is 1336
 
-== Usage ==
+# Usage
 
 ```node app.js```
