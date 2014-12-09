@@ -1,0 +1,15 @@
+{
+  "name": "yo1336",
+  "version": "1.0.0",
+  "description": "Yo's when the time is 1336 CET",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-schedule": "^0.1.13",
+    "request": "^2.49.0"
+  }
+}
